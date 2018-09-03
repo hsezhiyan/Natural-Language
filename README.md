@@ -1,2 +1,3 @@
 # Natural-Language
-I've attached here the assignments for ECS189 - Natural Language Processing. Further descriptions are provided inside the respective folders.
+Assignments for ECS189 - Natural Langauge Processing. Readme descriptions are provided within the specific folders for the
+specific assignments.
