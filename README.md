@@ -1,3 +1,3 @@
-# Natural-Language
-Assignments for ECS189 - Natural Langauge Processing. Readme descriptions are provided within the specific folders for the
-specific assignments.
+# Natural Language Processing
+
+The above folders contain implementations of common NLP models/techniques. Detailed instructions provided inside the respective folders.
