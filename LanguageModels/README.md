@@ -18,5 +18,5 @@ The BackoffModel.py implements stupid backoff, which is a linear combination of 
 
 The CustomModel.py implements trigram with stupid backoff, using smoothed trigram and unsmoothed bigram and unigram.
 
-`python CustomModel.py 
+`python CustomModel.py`
 
